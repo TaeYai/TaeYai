@@ -1,6 +1,6 @@
 ### Hi there 👋, Hiya Guys It Me Tae
 #### I am FNF Mod Programmer
-![I am FNF Mod Programmer](https://ibb.co/gz9wMVg)
+![I am FNF Mod Programmer](https://github.com/TaeYai/TaeYai/blob/main/github.png?raw=true)
 
 
 So i make FNF mod because it fun!
