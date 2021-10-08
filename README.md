@@ -14,7 +14,7 @@ My Recommand Mod Are Cyber Sensation, Dating Night Funkin, The Return Of Garcell
 
 
 
-Social NetWork: **[YouTube](https://www.youtube.com/c/TaeYai/) ⋅ [Twtitter](https://twitter.com/Taeyai_) ⋅ [GitHub](https://github.com/TaeYai)
+Social NetWork: **[YouTube](https://www.youtube.com/c/TaeYai/) ⋅ [Twitter](https://twitter.com/Taeyai_) ⋅ [GitHub](https://github.com/TaeYai)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYai)](https://github.com/anuraghazra/github-readme-stats)
 
