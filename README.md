@@ -1,6 +1,6 @@
 ### Hi there 👋, Hiya Guys It Me Tae
 ####  I am Programmer who have fun doing stuff
-(https://github.com/TaeYai/TaeYai/blob/main/Banner.jpg)
+[](https://github.com/TaeYai/TaeYai/blob/main/Banner.jpg)
 
 
 I Programming and also making game for fun 
