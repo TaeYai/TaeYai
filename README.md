@@ -1,14 +1,13 @@
 ### Hi there 👋, Hiya Guys It Me Tae
-#### I am FNF Mod Programmer
-![I am FNF Mod Programmer](https://github.com/TaeYai/TaeYai/blob/main/github.png?raw=true)
+####  I am Programmer who have fun doing stuff
+(https://github.com/TaeYai/TaeYai/blob/main/Banner.jpg)
 
 
-So i make FNF mod because it fun!
+I Programming and also making game for fun 
+people mostly know me from FNF
 
 
-- 📫 How to reach me: Discord:TaeYai#2760 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I learn Haxe Like on end of 2020 
 
 
 
